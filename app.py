@@ -8,7 +8,7 @@ ss = pickle.load(open("Scaler.pkl", "rb"))
 
 
 
-st.title("💓 Heart Disease Risk Prediction")
+st.title("💓 CardioRisk AI")
 
 st.write("Enter the details to check risk of heart disease:")
 
